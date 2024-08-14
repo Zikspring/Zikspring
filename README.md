@@ -1,0 +1,15 @@
+- ## 👋 Hello, My name is Ezekiel Aderibigbe
+- # 👋 I am an Ecologist, Environmentalist and a Data Analyst
+- ✨ My passion for data and its potential to drive meaningful change in environmental management has led me to focus on becoming an Environmental Data Analyst. I believe that data is a powerful tool that can unlock new insights, drive sustainable practices, and help solve some of the most pressing environmental challenges of our time.
+- 🌱 To equip myself with the necessary skills, I'm currently enrolled in a Data Analysis Course with Dahel Techie. This course is providing me with hands-on experience in data analysis, teaching me to use tools like Python, R, and various data visualization platforms. Through this training, I’m learning how to manipulate, analyze, and interpret complex datasets, turning raw data into actionable insights.
+- 🚀 My mission is to bridge the gap between environmental science and data analysis. By combining my knowledge of plant biology and environmental management with advanced data analysis skills, I aim to contribute to projects that promote sustainability, biodiversity conservation, and the efficient use of natural resources. I'm particularly interested in how data can be used to monitor environmental changes, assess the impact of human activities on ecosystems, and inform policy decisions.
+- 💞️ I am actively seeking opportunities to apply my skills in real-world projects and collaborations, particularly in roles related to Environmental Data Analysis. Whether it's analyzing large datasets, creating predictive models, or visualizing complex environmental trends, I'm eager to contribute my expertise to impactful projects.
+- 🌟 If you share my passion for data and the environment, or if you're working on projects that could benefit from my unique combination of skills, I would love to connect and explore how we can work together.
+- ## 📫 Contact Me: - **Email**: aderibigbe_ezekiel@yahoo.com, [LINKEDIN](https://www.linkedin.com/in/ezekiel-aderibigbe-011a5b140/)
+- 😄 Pronouns: He
+- ⚡ Fun fact: *"Data is the new oil, and I'm here to refine it for the environment."*
+- 🛠️ Skills and Technologies
+- **Languages**: SQL, R,
+- **Data Analysis**: Microsoft Excel
+- **Data Visualization**: Tableau
+- **Tools & Environments**: GitHub, canva
